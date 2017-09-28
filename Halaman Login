@@ -4,3 +4,16 @@
 <div id="header" style="background-color : red;">
 JDJJ
 </div>
+<div class ="menu">
+<ul>
+<li>Home</li>
+<li>Login</li>
+<li>About</li>
+</ul>
+<div class="slider">
+<img src="#"></img>
+<br>
+<img src="#"></img>
+<br>
+<img src="#"></img>
+</div>
