@@ -1,0 +1,6 @@
+.menu{
+margin : auto;
+display : inline-block;
+list : none;
+background-color : cyan;
+}
