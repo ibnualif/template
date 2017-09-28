@@ -1,9 +1,10 @@
 <html>
 <head>
-<title>Login</title>
+<title>Halaman Awal</title>
 <div id="header" style="background-color : red;">
 JDJJ
 </div>
+<div class="content">
 <div class ="menu">
 <ul>
 <li>Home</li>
@@ -16,4 +17,10 @@ JDJJ
 <img src="#"></img>
 <br>
 <img src="#"></img>
+</div>
+<div id="flex">
+Lorem ipsum
+</div>
+<div class="footer">
+Lorem ipsumkakakakak
 </div>
