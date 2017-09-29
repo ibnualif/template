@@ -1,6 +1,32 @@
+#header{
+  margin : auto;
+  background-color : lightblue;
+}
 .menu{
 margin : auto;
 display : inline-block;
 list : none;
 background-color : cyan;
+font-size : 12px;
+color : black;
+}
+.menu a:hover{
+ color: white;
+}
+.slider{
+  margin : auto;
+  position : relative;
+  max-width : 1000px;
+}
+#slidefade{
+  display : none;
+}
+.prev, .next{
+  cursor : pointer;
+  position  : absolute;
+  top : 50%;
+  width : auto;
+  transition : 0.6s ease;
+  border : 1px;
+  margin-top : 22px;
 }
