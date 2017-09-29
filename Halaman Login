@@ -7,9 +7,9 @@ JDJJ
 <div class="content">
 <div class ="menu">
 <ul>
-<li>Home</li>
-<li>Login</li>
-<li>About</li>
+<li><a href="###">Home</a></li>
+<li><a href="###">Login</a></li>
+<li><a href="###">Abou</a>t</li>
 </ul>
 <div class="slider">
 <img src="#"></img>
@@ -24,3 +24,5 @@ Lorem ipsum
 <div class="footer">
 Lorem ipsumkakakakak
 </div>
+</body>
+</html>
