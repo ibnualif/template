@@ -5,6 +5,13 @@ $server = "localhost";
 $dbname = "inventaris";
 $username = "root";
 $password = "root";
-$koneksi  = new mysqli();
+$koneksi  = new mysqli($server,$username,$password,$dbname);
+return $koneksi;
+}
+
+function create($table,$param){
+  global $database;
+  $database = koneksi();
+  $query = ""
 }
 ?>
