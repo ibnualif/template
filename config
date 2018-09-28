@@ -1,0 +1,10 @@
+<?php
+session_start();
+function koneksi(){
+$server = "localhost";
+$dbname = "inventaris";
+$username = "root";
+$password = "root";
+$koneksi  = new mysqli();
+}
+?>
